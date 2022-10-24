@@ -1,4 +1,4 @@
-# 🕺🏽 Hi, I’m Edy
+#🕺🏽 Hi, I’m Edy
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="450"/>
 
 <h3>👨🏽‍💻 About Me </h3>
@@ -16,6 +16,8 @@ After that, I worked on different projects where I acquired new knowledge, such 
 - 📱 &nbsp; Jetpack Compose | Coroutines | Retrofit | Koin | Dagger  | Room  
 - 🔧 &nbsp; Android Studio | Postman 
 - 🎡 &nbsp; Git | Postman | MixPanel | Jira | Firebase
+
+<h3>🤝 Connect with Me</h3>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/EdiiDD) 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edisonlg/)
