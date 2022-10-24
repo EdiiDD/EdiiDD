@@ -1,4 +1,4 @@
-#🕺🏽 Hi, I’m Edy
+# 🕺🏽 Hi, I’m Edy
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="450"/>
 
 <h3>👨🏽‍💻 About Me </h3>
