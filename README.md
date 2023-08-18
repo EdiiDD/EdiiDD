@@ -12,7 +12,7 @@ After that, I worked on different projects where I acquired new knowledge, such 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Kotlin | Java 
-- 👷🏽‍♂️ &nbsp; MVVM | Multimodule | Uni Test
+- 👷🏽‍♂️ &nbsp; MVVM | KMM | Multimodule | Unit Test
 - 📱 &nbsp; Jetpack Compose | Coroutines | Retrofit | Koin | Dagger  | Room  
 - 🔧 &nbsp; Android Studio | Postman 
 - 🎡 &nbsp; Git | Postman | MixPanel | Jira | Firebase
